@@ -7,7 +7,7 @@ print("""**************************************
 """)
 
 appetizers = ['Appetizers', '----------', 'Wings', 'Cookies', 'Spring Rolls']
-entrees = ['Entrees', '-----', 'Salmon', 'Steak', 'Meat Tornado', 'A Literal Garden']
+entrees = ['Entrees', '-------', 'Salmon', 'Steak', 'Meat Tornado', 'A Literal Garden']
 desserts = ['Desserts', '--------', 'Ice Cream', 'Cake', 'Pie']
 drinks = ['Drinks', '------', 'Coffee', 'Tea', 'Unicorn Tears']
 
