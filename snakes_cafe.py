@@ -12,10 +12,10 @@ desserts = ['Desserts', '--------', 'Ice Cream', 'Cake', 'Pie']
 drinks = ['Drinks', '------', 'Coffee', 'Tea', 'Unicorn Tears']
 
 
-print("\n".join(appetizers))
-print("\n".join(entrees))
-print("\n".join(desserts))
-print("\n".join(drinks))
+print("\n".join(map(str, appetizers)))
+print("\n".join(map(str, entrees)))
+print("\n".join(map(str, desserts)))
+print("\n".join(map(str, drinks)))
 
 print("""***************************************
 ** What would you like to order? **
